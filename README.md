@@ -15,6 +15,7 @@ This can be very useful towards giving people your discord link, how to aquire r
 ### Customization 
 
 * To edit the text within the UI go to `html/index.html` and edit that file
+* To edit colors and borders, etc, go to `html/style.css` and edit that file
 
 ### Images
 
