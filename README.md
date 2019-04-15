@@ -1,6 +1,8 @@
-# FiveM NUI Server Info
+# FiveM NUI Server Information Menu
 
 Using NUI, Lua, HTML, CSS, and JS to make a User Interface to display server information, discord, and other information.
+
+This can be very useful towards giving people your discord link, how to aquire roles, and just giving general information.
 
 ### Usage 
 
