@@ -9,8 +9,8 @@ This can be very useful towards giving people your discord link, how to aquire r
 * Rename the file to `server-information` (or whatever you want)
 * Drag the folder into your `resources` folder
 * Open your `server.cfg` and add `start server-information`
-* To open the information menu do `/open` 
-* As stated in the UI do `/close` to close the menu
+* To open the information menu do `/info` 
+* As stated in the UI do `/info` to close the menu
 
 ### Customization 
 
